@@ -1,5 +1,5 @@
 - 👋 Hi, I’m erdem
-- 👀 I’m interested in deep learning, machine learning, computer vision,GAN, RNN
+- 👀 I’m interested in Software, cyberSecurity , java
 - 🌱 I’m looking to collaborate on health, defence industries, finance
 - 📫 How to reach me infoengineerman@gmail.com
 
