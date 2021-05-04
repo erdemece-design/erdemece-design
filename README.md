@@ -1,5 +1,5 @@
 - 👋 Hi, I’m erdem
-- 👀 I’m interested in Software, cyberSecurity , java
+- 👀 I’m interested in Software, CyberSecurity , Java, Python
 - 🌱 I’m looking to collaborate on health, defence industries, finance
 - 📫 How to reach me infoengineerman@gmail.com
 
